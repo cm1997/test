@@ -1,0 +1,8 @@
+diff a/ELSClientModule/.settings/org.eclipse.core.resources.prefs b/ELSClientModule/.settings/org.eclipse.core.resources.prefs	(rejected hunks)
+@@ -1,2 +0,4 @@
+-eclipse.preferences.version=1
+-encoding//src/main/java=UTF-8
++eclipse.preferences.version=1
++encoding//src/main/java=UTF-8
++encoding//src/test/java=UTF-8
++encoding/<project>=UTF-8
